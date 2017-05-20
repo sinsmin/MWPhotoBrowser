@@ -1,5 +1,4 @@
-# MWPhotoBrowser
-
+# MWPhotoBrowser（升级SDWebImage，解决内存占用多大，导致闪退）
 <!--[![CI Status](http://img.shields.io/travis/Michael Waterfall/MWPhotoBrowser.svg?style=flat)](https://travis-ci.org/Michael Waterfall/MWPhotoBrowser)-->
 [![Version](https://img.shields.io/cocoapods/v/MWPhotoBrowser.svg?style=flat)](http://cocoapods.org/pods/MWPhotoBrowser)
 [![License](https://img.shields.io/cocoapods/l/MWPhotoBrowser.svg?style=flat)](http://cocoapods.org/pods/MWPhotoBrowser)
